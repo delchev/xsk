@@ -230,7 +230,7 @@
 
 		<dirigible.version>6.1.18</dirigible.version>
 
-		<maven.resource.plugin.version>3.0.2</maven.resource.plugin.version>
+		<maven.resource.plugin.version>3.2.0</maven.resource.plugin.version>
 		<maven.clean.plugin.version>3.1.0</maven.clean.plugin.version>
 		<maven.clean.plugin.directory>src/main/resources/META-INF/dirigible</maven.clean.plugin.directory>
 		<maven.compiler.plugin.version>3.9.0</maven.compiler.plugin.version>
@@ -256,7 +256,7 @@
 		<jaxws.version>2.3.0</jaxws.version>
 		<emf.mwe.utils.version>1.4.0</emf.mwe.utils.version>
 		<olingo.version>2.0.11</olingo.version>
-		<mockito.version>2.28.2</mockito.version>
+		<mockito.version>4.3.0</mockito.version>
 		<powermock-api-mockito2.version>2.0.2</powermock-api-mockito2.version>
 		<powermock-module-junit4.version>2.0.2</powermock-module-junit4.version>
 		<junit.version>4.13.2</junit.version>
